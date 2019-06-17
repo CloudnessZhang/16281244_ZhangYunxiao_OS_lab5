@@ -1,0 +1,42 @@
+# depslib dependency file v1.0
+1484713604 source:c:\users\cloudness\desktop\cloudness\向着杀老师进击\大三下册\计算机操作系统\实验\实验五\file system\file_system.cpp
+	"file_system.h"
+
+1484713604 c:\users\cloudness\desktop\cloudness\向着杀老师进击\大三下册\计算机操作系统\实验\实验五\file system\file_system.h
+	<string>
+	<iostream>
+	<fstream>
+	<cstring>
+	"IO_system.h"
+
+1484713604 c:\users\cloudness\desktop\cloudness\向着杀老师进击\大三下册\计算机操作系统\实验\实验五\file system\io_system.h
+	"IO_system.h"
+
+1484713604 source:c:\users\cloudness\desktop\cloudness\向着杀老师进击\大三下册\计算机操作系统\实验\实验五\file system\io_system.cpp
+
+1484713604 source:c:\users\cloudness\desktop\cloudness\向着杀老师进击\大三下册\计算机操作系统\实验\实验五\file system\main.cpp
+	"shell.h"
+	<fstream>
+
+1484713604 c:\users\cloudness\desktop\cloudness\向着杀老师进击\大三下册\计算机操作系统\实验\实验五\file system\shell.h
+	<iostream>
+	<string>
+	<stdexcept>
+	"str_operations.h"
+	"file_system.h"
+
+1484713604 c:\users\cloudness\desktop\cloudness\向着杀老师进击\大三下册\计算机操作系统\实验\实验五\file system\str_operations.h
+	<vector>
+	<string>
+	<sstream>
+	<iostream>
+
+1560751476 source:c:\users\cloudness\desktop\cloudness\向着杀老师进击\大三下册\计算机操作系统\实验\实验五\file system\shell.cpp
+	"shell.h"
+	<string>
+	<iostream>
+	<cstdlib>
+
+1560751676 source:c:\users\cloudness\desktop\cloudness\向着杀老师进击\大三下册\计算机操作系统\实验\实验五\file system\str_operations.cpp
+	"str_operations.h"
+
